@@ -1,0 +1,6 @@
+
+
+We can follow release version standard
+
+
+"test": "jest --watchAll --detectOpenHandles",

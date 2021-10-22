@@ -1,0 +1,4 @@
+{
+    "MONGO_CONNECTION_URL": "mongodb://hubilo:hubiloxyz9428@54.147.189.172:27017/production",
+    "JWT_SECRET": "CoDeBoXeR123@#$"
+}
